@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140021804037",
+    "project_id": "harkie-311c4",
+    "storage_bucket": "harkie-311c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140021804037:android:5d2a01af2894b1f64c406c",
+        "android_client_info": {
+          "package_name": "com.hackerverse2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140021804037-9t8ask31u5m1hg296n284mgvm1uerob0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Qd3RochEaaFbadMBAQFtZjTmnamnZ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140021804037-9t8ask31u5m1hg296n284mgvm1uerob0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
